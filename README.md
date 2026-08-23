@@ -41,7 +41,7 @@ actually relevant to the user.
 
 ## What's real
 
-- **22 real Chelsea places** with curated data: menu prices, hours, review
+- **70 real Chelsea places** — 22 hand-curated plus 48 drafted by an open-data pipeline and human-reviewed before publishing: menu prices, hours, review
   sentiments, current exhibitions. Every evidence card carries a source URL
   and verification date (`src/data/places/`).
 - **Real AI agents** — Claude (claude-sonnet-5) parses intent, picks 3
